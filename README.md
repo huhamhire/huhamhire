@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=huhamhire&show_icons=true&theme=transparent&line_height=28)
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=huhamhire&theme=transparent&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=huhamhire&no-bg=true&column=6&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=huhamhire&no-bg=true&column=6&margin-w=15&margin-h=15&&rank=-C,-?)
