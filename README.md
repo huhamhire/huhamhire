@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **huhamhire/huhamhire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤔 My Blog is [https://hamhire.tech/](https://hamhire.tech/) 
+- 📫 How to reach me: [email: me@huhamhire.com](me@huhamhire.com)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=huhamhire&show_icons=true&theme=transparent&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huhamhire&theme=transparent&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=huhamhire&no-bg=true&column=6&margin-w=15&margin-h=15)
