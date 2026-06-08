@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 - 🤔 My Blog is [https://hamhire.tech/](https://hamhire.tech/) 
 - 📫 How to reach me: [email: me@huhamhire.com](me@huhamhire.com)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=huhamhire&show_icons=true&theme=transparent&line_height=28&include_all_commits=true)
+![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=huhamhire&show_icons=true&theme=transparent&line_height=28&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=huhamhire&theme=transparent&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=huhamhire&no-bg=true&column=6&margin-w=15&margin-h=15&&rank=-C,-?)
